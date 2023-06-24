@@ -900,7 +900,10 @@ fill: #4D5AE5;
     margin-bottom: 24px;
 
 }
-
+.modal-privacy {
+color: #4D5AE5;
+text-decoration: underline;
+}
 
 .input-icon {
     fill: #2E2F42;
