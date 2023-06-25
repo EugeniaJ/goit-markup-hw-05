@@ -963,16 +963,12 @@ color: #8E8F99;
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.48px;
-    display: flex;
+   
     align-items: center;
         
 }
 
-.check-text a{
-    text-decoration: underline;
-   color: #8e8f99;; 
-letter-spacing: 0.04em;
-}
+
 .agree-img {
     width: 16px;
     height: 16px;
@@ -1029,7 +1025,7 @@ letter-spacing: 0.04em;
 /*-----form----*/
 .form-cont {
 
-
+margin-left: 80px;
 }
 .form {
 justify-content: space-between;
@@ -1039,7 +1035,7 @@ gap: 24px;
 }
 
 .form-label {
-margin-left: 80px;
+
 
 }
 
